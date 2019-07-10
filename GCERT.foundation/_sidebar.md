@@ -1,5 +1,0 @@
-* [Home](/)
-* [News](/news/ "Our latest news headlines")
-* [About](/about/ "About our organisation")
-* [Contact](/contact/ "Contact information")
-* [Mission](/mission/ "Our mission statement")
